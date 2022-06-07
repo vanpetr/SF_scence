@@ -1,2 +1,2 @@
-# SF_scence
-SF_home
+# My Datascence projects
+From the [Scilfactory Data Science course]
